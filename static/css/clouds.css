@@ -55,6 +55,6 @@
   border: 3px solid white;
   */
   
-  background-image: url("/static/img/cloud.webp");
+  background-image: url("https://raw.githubusercontent.com/S-PScripts/halcyon-host/main/static/img/cloud.webp");
   opacity: 0.1;
 }
